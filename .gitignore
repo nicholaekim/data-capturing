@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.venv/
+
+# Session data (generated at runtime)
+session_*/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
