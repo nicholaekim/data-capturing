@@ -1,3 +1,4 @@
+Step 1: 
 # Input Logger POC
 
 Minimal proof-of-concept input logger that captures keyboard and mouse events with high-resolution timestamps.
